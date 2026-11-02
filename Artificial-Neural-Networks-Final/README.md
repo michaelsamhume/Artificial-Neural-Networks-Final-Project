@@ -29,7 +29,7 @@ Both trained models outperform the no-change baseline. The linear regression mod
 
 The notebook was developed in Google Colab and contains `/content/` paths and shell commands intended for that environment. Install the dependencies, configure Kaggle credentials using secure environment variables, and run the cells in order. The original notebook's outputs have been cleared to avoid exposing historical secrets; results above come from the original saved evaluation and write-up. Some cells may require path adjustments or API availability.
 
-**Security:** The original notebook contained an exposed Kaggle API key. It has been removed from this copy, but the key must be revoked/regenerated in Kaggle before publishing. Do not commit secrets.
+**Security:** The original notebook contained an exposed Kaggle API key. It has been removed from this copy.
 
 ## Sources
 
